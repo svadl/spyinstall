@@ -1,7 +1,7 @@
 # spyinstall
 
-[![Minimum PHP version: 7.4.0](https://img.shields.io/badge/php-7.4.0%2B-blue.svg?label=PHP)](https://packagist.org/packages/php-censor/php-censor)
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/svenadler-diva-e/spyinstall?color=%2341b806"><br />
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/svenadler-diva-e/spyinstall?color=%2341b806"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/svenadler-diva-e/spyinstall?color=%2398579e"> <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/svenadler-diva-e/spyinstall">
+
 Bash script to install Spryker demo shop and select either production or development mode.
 
 
